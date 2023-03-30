@@ -2,4 +2,11 @@ Tokens:
   PRIVATE_KEY: safeKing
   EXP_TIME_JWT: 3600001
   EXP_TIME_REFRESH: 3600000111
+  
+spring:
+  datasource:
+    driver-class-name: org.h2.Driver
+    url: jdbc:h2:tcp://localhost/~/msa_db
+    username: sa
+    password:
 
