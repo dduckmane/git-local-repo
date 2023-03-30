@@ -1,7 +1,7 @@
 Tokens:
   PRIVATE_KEY: safeKing
   EXP_TIME_JWT: 3600001
-  EXP_TIME_REFRESH: 3600000111
+  EXP_TIME_REFRESH: 36000001
   
 spring:
   datasource:
